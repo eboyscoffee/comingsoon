@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="25px" viewBox="0 0 77 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8---2" transform="translate(-35.000000, -32.000000)" fill="#333333">
+            <g id="top" transform="translate(29.000000, 29.000000)">
+                <g id="Logo">
+                    <g id="coffee-bean-for-a-coffee-break" transform="translate(15.500000, 15.500000) rotate(-45.000000) translate(-15.500000, -15.500000) translate(5.000000, 5.000000)" fill-rule="nonzero">
+                        <path d="M0.916325063,17.7507779 C-1.10061544,14.194785 0.271862679,8.61756145 4.44437653,4.4447396 C9.18269537,-0.291968384 15.7344504,-1.42122203 19.0795478,1.92254871 C19.0834774,1.92692841 19.0867629,1.93188777 19.0921098,1.93633188 C18.4226522,3.88368738 16.2907212,8.02713949 9.90021057,10.2672907 C4.0461936,12.3204674 1.78799844,15.5847595 0.916325063,17.7507779 Z M20.0204087,3.13984718 C19.5133552,4.32243009 18.6308592,5.86788388 17.1103428,7.38796119 C15.5819672,8.91666907 13.4097089,10.4180683 10.332794,11.4971486 C4.08793807,13.6865468 2.34310964,17.2707501 1.85628414,19.0076225 C1.87928225,19.0308091 1.89905933,19.0548331 1.92141324,19.0773756 C5.26618847,22.4212752 11.8182012,21.2920859 16.556198,16.5546051 C20.7721312,12.3394676 22.1279888,6.68991459 20.0204087,3.13984718 Z" id="Shape"></path>
+                    </g>
+                    <g id="eboyscoffee" transform="translate(30.000000, 5.000000)">
+                        <text id="eboys" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold">
+                            <tspan x="0.488769531" y="18">eboys</tspan>
+                        </text>
+                        <text id="COFFEE" font-family="Helvetica" font-size="5" font-weight="normal" letter-spacing="0.2403847">
+                            <tspan x="31.1396857" y="5">COFFEE</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
